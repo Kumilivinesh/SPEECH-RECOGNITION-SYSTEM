@@ -23,3 +23,6 @@ The development environment used for this project is Visual Studio Code (VS Code
 During the development process, various testing and debugging steps were carried out using VS Code’s integrated terminal and debugger to ensure the system responds appropriately to valid speech input as well as gracefully handles errors such as silence, background noise, or unclear speech. The speech recognition functionality was tested in different ambient conditions to improve its reliability, and adjust_for_ambient_noise() was employed to help the system adapt to different background noise levels.
 
 In conclusion, the Speech Recognizing System demonstrates the power and flexibility of combining Python with the speech recognition library to build a real-time voice-to-text converter. The project showcases how modern APIs and development tools like VS Code can be leveraged to create interactive and intelligent applications with minimal setup. This system serves as a foundational project for more advanced voice-based applications, including voice assistants, smart home controls, and transcription tools.
+
+*output :*
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/978f3abc-3c5c-4184-8d15-3389c22ec1dd" />
